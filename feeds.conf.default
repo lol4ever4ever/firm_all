@@ -9,7 +9,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 src-git helloworld https://github.com/fw876/helloworld
 #src-git lede https://github.com/coolsnowwolf/lede
-src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package
-src-git garypang13 https://github.com/garypang13/openwrt-packages
+#src-git sirpdboy https://github.com/sirpdboy/sirpdboy-package
+#src-git garypang13 https://github.com/garypang13/openwrt-packages
 src-git kenzok8 https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
